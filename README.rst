@@ -15,7 +15,7 @@ It is used to convert pretty much any video format into:
 This is a meta - project bringing together a transcoding package and a
 connector to talk with the AMQP implementation for the Vesta project.
 
-----------------
+---------------
 License
 ---------------
 
