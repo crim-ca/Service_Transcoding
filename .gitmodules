@@ -1,0 +1,3 @@
+[submodule "Service_Transcoding/Service"]
+	path = Service_Transcoding/Service
+	url = https://github.com/crim-ca/Service
