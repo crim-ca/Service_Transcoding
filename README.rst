@@ -26,7 +26,7 @@ Installation
 -----------------
 ::
 
-        sudo pip install requirements.pip
+        sudo pip install .
 
 
 -----------------
